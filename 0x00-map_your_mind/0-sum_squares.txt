@@ -1,0 +1,6 @@
+1. start 
+2. input numbers 1 up to k 
+3. initialize sum =0 and i=0 for iteration 
+4. add the square of each number to sum. 
+5. ckeck if all numbers are added by iterating i from 0 to k-1
+6. return sum 
