@@ -1,0 +1,11 @@
+1. start the program 
+
+2. initilize sum =0 
+
+3. input number 
+
+4. repeat 
+
+4.1  check if number is greater than 0; if so sum = sum + number 
+
+5. other wise stop the program by displaying sum
