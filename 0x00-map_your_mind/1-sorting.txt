@@ -1,0 +1,12 @@
+1.	input k numbers.
+
+2.	initialize itration paramters I and j as  i = 0, j=1 and define variable temp
+
+3.	start comparing the ith term with i+1 th term if greater exchanage thier position by temp = ni; ni= ni+1 ; then ni+1 = temp else keep them as they are. 
+
+4.	repeat the operation 3 until the last number; that is i = j;
+
+5.	incrment j by one and I =0. 
+
+6.	repeat operation 3, 4 and 5 until j=k
+ 
